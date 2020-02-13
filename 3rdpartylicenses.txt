@@ -325,10 +325,10 @@ MIT
 @angular/router
 MIT
 
+@zxing/ngx-scanner
+
 @angular/forms
 MIT
-
-@zxing/ngx-scanner
 
 zone.js
 MIT
